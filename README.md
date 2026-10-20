@@ -13,6 +13,23 @@
 
 PlanPad is a small task manager for teams, built with Flutter and Firebase. People have roles, work is grouped into projects, every task has a priority, and every status change is recorded with who made it. The app keeps working without internet and syncs when the connection comes back.
 
+## Screenshots
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="docs/screenshots/login.png" width="200" alt="Login"></td>
+    <td align="center"><img src="docs/screenshots/home.png" width="200" alt="Home"></td>
+    <td align="center"><img src="docs/screenshots/tasks.png" width="200" alt="Tasks"></td>
+    <td align="center"><img src="docs/screenshots/profile.png" width="200" alt="Profile"></td>
+  </tr>
+  <tr>
+    <td align="center">Home</td>
+    <td align="center">Tasks</td>
+    <td align="center">Task details</td>
+    <td align="center">Projects</td>
+  </tr>
+</table>
+
 ## Features
 
 - Multiple users with different roles
