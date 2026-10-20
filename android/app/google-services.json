@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "242545902815",
+    "project_id": "task-manager-ecb40",
+    "storage_bucket": "task-manager-ecb40.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242545902815:android:e24440525297ab97fd956a",
+        "android_client_info": {
+          "package_name": "com.planpad.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP0fwHydJUnBpxVophDkinKB9aFAkRM4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
