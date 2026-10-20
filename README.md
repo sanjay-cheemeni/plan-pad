@@ -23,10 +23,10 @@ PlanPad is a small task manager for teams, built with Flutter and Firebase. Peop
     <td align="center"><img src="docs/screenshots/profile.png" width="200" alt="Profile"></td>
   </tr>
   <tr>
+    <td align="center">Login</td>
     <td align="center">Home</td>
-    <td align="center">Tasks</td>
-    <td align="center">Task details</td>
-    <td align="center">Projects</td>
+    <td align="center">Task List</td>
+    <td align="center">Profile</td>
   </tr>
 </table>
 
